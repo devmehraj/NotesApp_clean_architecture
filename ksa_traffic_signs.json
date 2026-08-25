@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "id": "warning-signs",
+      "name": "Warning Signs",
+      "description": "Learn Saudi traffic signs, traffic signals, and road markings required for the Saudi driving test. This guide covers Saudi driving test signs, saudi driving license traffic signs, and traffic signs and meanings in Saudi Arabia to help you pass the Saudi driving license signal test and drive safely across the Kingdom. Understand different signs for driving test, traffic signs for driving test Saudi Arabia, and Saudi Arabia road traffic signs used in real driving and exam scenarios. Traffic signs in Saudi Arabia are grouped into standard categories used in the Saudi driving test, Saudi driving license signal test, and traffic signs driving test Saudi Arabia. Each category serves a clear function in road safety and exam preparation. Used to alert drivers about curves, crossings, intersections, and roadwork zones. These signs appear in the warning sign test and are essential signs to know for drivers test.",
+      "sourceUrl": "https://drivingtestksa.com/english/traffic-signs-signals/",
+      "signs": [
+        {
+          "name": "Dip",
+          "explanation": "This warning sign alerts drivers to a dip in the road surface ahead. A dip can reduce vehicle control and visibility, so drivers should slow down, maintain steering control, and be prepared for suspension movement. This sign warns drivers of a sharp right turn ahead. Drivers should reduce speed, stay within their lane, and prepare to steer carefully to avoid losing control while navigating the tight curve safely. The sign indicates a sharp left turn ahead. Drivers should slow down in advance, keep proper lane position, and be ready to steer smoothly to safely negotiate the turn without sudden braking.",
+          "imageUrl": "https://drivingtestksa.com/traffic-signs/dip.webp",
+          "sourceUrl": "https://drivingtestksa.com/english/traffic-signs-signals/warning/#main-content"
+        }
+      ]
+    },
+    {
+      "id": "regulatory-signs",
+      "name": "Regulatory Signs",
+      "description": "Learn Saudi traffic signs, traffic signals, and road markings required for the Saudi driving test. This guide covers Saudi driving test signs, saudi driving license traffic signs, and traffic signs and meanings in Saudi Arabia to help you pass the Saudi driving license signal test and drive safely across the Kingdom. Understand different signs for driving test, traffic signs for driving test Saudi Arabia, and Saudi Arabia road traffic signs used in real driving and exam scenarios. Traffic signs in Saudi Arabia are grouped into standard categories used in the Saudi driving test, Saudi driving license signal test, and traffic signs driving test Saudi Arabia. Each category serves a clear function in road safety and exam preparation. Used to alert drivers about curves, crossings, intersections, and roadwork zones. These signs appear in the warning sign test and are essential signs to know for drivers test.",
+      "sourceUrl": "https://drivingtestksa.com/english/traffic-signs-signals/",
+      "signs": [
+        {
+          "name": "Adhere to the maximum speed limit.",
+          "explanation": "This sign indicates the maximum speed allowed on the road. Drivers must not exceed this limit, as it is set for safety based on road and traffic conditions. This sign prohibits trailers from entering the road. Drivers towing trailers must choose an alternate route to comply with traffic regulations. This sign indicates that goods vehicles are not allowed to enter. It helps control heavy traffic in restricted areas and improves safety for other road users.",
+          "imageUrl": "https://drivingtestksa.com/traffic-signs/adhere-to-the-maximum-speed-limit.webp",
+          "sourceUrl": "https://drivingtestksa.com/english/traffic-signs-signals/regulatory/#main-content"
+        }
+      ]
+    },
+    {
+      "id": "guidance-signs",
+      "name": "Guidance Signs",
+      "description": "Learn Saudi traffic signs, traffic signals, and road markings required for the Saudi driving test. This guide covers Saudi driving test signs, saudi driving license traffic signs, and traffic signs and meanings in Saudi Arabia to help you pass the Saudi driving license signal test and drive safely across the Kingdom. Understand different signs for driving test, traffic signs for driving test Saudi Arabia, and Saudi Arabia road traffic signs used in real driving and exam scenarios. Traffic signs in Saudi Arabia are grouped into standard categories used in the Saudi driving test, Saudi driving license signal test, and traffic signs driving test Saudi Arabia. Each category serves a clear function in road safety and exam preparation. Used to alert drivers about curves, crossings, intersections, and roadwork zones. These signs appear in the warning sign test and are essential signs to know for drivers test.",
+      "sourceUrl": "https://drivingtestksa.com/english/traffic-signs-signals/",
+      "signs": [
+        {
+          "name": "Guidance Signs - Navigation & Info",
+          "explanation": "This sign indicates an authorized parking area ahead. Drivers may park their vehicles here while following any posted parking rules or time restrictions. This sign informs drivers that side parking is allowed in this area. Vehicles should be parked properly without blocking traffic or pedestrian movement. This sign recommends brightening the car’s lights. It is typically used in poorly lit areas to improve visibility and ensure safer driving conditions.",
+          "imageUrl": "https://drivingtestksa.com/traffic-signs/parking-area.webp",
+          "sourceUrl": "https://drivingtestksa.com/english/traffic-signs-signals/guidance/#main-content"
+        }
+      ]
+    },
+    {
+      "id": "temporary-work-area",
+      "name": "Temporary Work Area",
+      "description": "Learn Saudi traffic signs, traffic signals, and road markings required for the Saudi driving test. This guide covers Saudi driving test signs, saudi driving license traffic signs, and traffic signs and meanings in Saudi Arabia to help you pass the Saudi driving license signal test and drive safely across the Kingdom. Understand different signs for driving test, traffic signs for driving test Saudi Arabia, and Saudi Arabia road traffic signs used in real driving and exam scenarios. Traffic signs in Saudi Arabia are grouped into standard categories used in the Saudi driving test, Saudi driving license signal test, and traffic signs driving test Saudi Arabia. Each category serves a clear function in road safety and exam preparation. Used to alert drivers about curves, crossings, intersections, and roadwork zones. These signs appear in the warning sign test and are essential signs to know for drivers test.",
+      "sourceUrl": "https://drivingtestksa.com/english/traffic-signs-signals/",
+      "signs": [
+        {
+          "name": "Temporary Work Area Signs - Construction Zones",
+          "explanation": "The sign warns drivers that the road ahead carries two-way traffic due to temporary conditions. Drivers should stay in their lane and be alert for oncoming vehicles. This sign indicates traffic lights or beacons ahead. Drivers should prepare to slow down, observe the signals, and stop if required. The sign advises drivers to keep left because the road narrows from the right. It helps maintain smooth traffic flow and prevents sudden lane changes.",
+          "imageUrl": "https://drivingtestksa.com/traffic-signs/two-way-traffic-on-the-road.webp",
+          "sourceUrl": "https://drivingtestksa.com/english/traffic-signs-signals/temporary-work-area/#main-content"
+        }
+      ]
+    },
+    {
+      "id": "traffic-lights-road-lines",
+      "name": "Traffic Lights & Road Lines",
+      "description": "Learn Saudi traffic signs, traffic signals, and road markings required for the Saudi driving test. This guide covers Saudi driving test signs, saudi driving license traffic signs, and traffic signs and meanings in Saudi Arabia to help you pass the Saudi driving license signal test and drive safely across the Kingdom. Understand different signs for driving test, traffic signs for driving test Saudi Arabia, and Saudi Arabia road traffic signs used in real driving and exam scenarios. Traffic signs in Saudi Arabia are grouped into standard categories used in the Saudi driving test, Saudi driving license signal test, and traffic signs driving test Saudi Arabia. Each category serves a clear function in road safety and exam preparation. Used to alert drivers about curves, crossings, intersections, and roadwork zones. These signs appear in the warning sign test and are essential signs to know for drivers test.",
+      "sourceUrl": "https://drivingtestksa.com/english/traffic-signs-signals/",
+      "signs": [
+        {
+          "name": "Traffic Lights & Road Lines - Signals & Markings",
+          "explanation": "Green streamers on traffic lights advise drivers to prepare to pass. It indicates permission to proceed while remaining alert to conditions ahead. This green light indicates drivers may proceed but should remain cautious, especially at intersections, watching for pedestrians or turning vehicles. A red light means drivers must wait and stop completely before the stop line or intersection until the signal changes.",
+          "imageUrl": "https://drivingtestksa.com/traffic-signs/prepare-to-pass.webp",
+          "sourceUrl": "https://drivingtestksa.com/english/traffic-signs-signals/road-lines/#main-content"
+        }
+      ]
+    }
+  ]
+}
